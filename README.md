@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atul Nandan
-- 👀 I’m interested in MERN STACK Development
-- 🌱 My Skills are HTML, CSS, JavaScript, Bootstrap, ReactJS, NodeJS, ExpressJS, MongoDB, SQL, Java and Python.
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m Software Developer
+- 🌱 Building AI-powered applications with MERN-STACK and LLM-frameworks.
+- 💞️ Less Talk, More Code.
 - 📫 You can reach me on theatulnandanofficial@gmail.com 
 - 😄 Pronouns: Professor
 - ⚡ Fun fact: Did you know that the popular programming language JavaScript was created in just 10 days?
