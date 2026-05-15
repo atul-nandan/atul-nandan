@@ -97,7 +97,12 @@
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
  
 <br/>
- 
+
+# Reality
+<p align="center">
+  <img src="https://media.giphy.com/media/3gDmwF2ob9HNOqXKX5/giphy.gif" />
+</p>
+ ---
 <a href="https://github.com/CelaDaniel" target="_blank">
 <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
