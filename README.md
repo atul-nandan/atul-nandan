@@ -29,19 +29,6 @@
 </picture>
 </div>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atul-nandan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-nandan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-nandan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
   ## ⭐ Let's Stay Connected:
 
